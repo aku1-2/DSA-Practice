@@ -1,2 +1,2 @@
 # DSA-Practice
-DSA problem solution categorized by topic.
+DSA problem solutions categorized by topic.
