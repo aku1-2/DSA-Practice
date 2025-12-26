@@ -1,7 +1,6 @@
 //Add node in a linked list at any position leetcode question 707 Design Linked List.
-//Time Complexity: O(n) where n is the number of nodes int the linked list.
-//Space Complexity: O(1)
-
+//Time Complexity: O(n) of get() ,addAtTail(), addAtIndex(), deleteAtIndex() functions.
+//Space Complexity: O(1).
 class MyLinkedList {
     private:
     struct Node{
